@@ -285,6 +285,14 @@ curl -H "Authorization: Bearer <TOKEN>" -H "Accept: application/json" \
 
 ---
 
+## Sincronizar
+
+Tocar el botón “Sincronizar” en Lucy, o
+
+llamás al endpoint POST /api/v1/sial/sync.
+
+Si querés que sea periódico, activalo con el Scheduler de Laravel. Te dejo el set-up mínimo y una recomendación sensata.
+
 ## Licencia
 
-Apache-2.0/GPL-3.0
+Definí la licencia del repo (MIT/Apache-2.0/GPL-3.0) según tu política institucional.
