@@ -287,4 +287,4 @@ curl -H "Authorization: Bearer <TOKEN>" -H "Accept: application/json" \
 
 ## Licencia
 
-Definí la licencia del repo (MIT/Apache-2.0/GPL-3.0) según tu política institucional.
+Apache-2.0/GPL-3.0
